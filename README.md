@@ -2,10 +2,8 @@
 Crypto star Dapp on Ethereum
 
 ## Prerequisites:
-openzeppelin-solidity": "^2.1.2"
-css-loader: "^2.1.0"
-style-loader: "^0.23.1"
-webpack: "^4.29.5"
+- openzeppelin-solidity": "^2.1.2"
+- webpack: "^4.29.5"
 
 ## Commands :
 ```
