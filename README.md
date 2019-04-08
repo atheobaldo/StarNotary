@@ -3,7 +3,7 @@ Crypto star Dapp on Ethereum
 
 ## Prerequisites:
 - openzeppelin-solidity": "^2.1.2"
-- webpack: "^4.29.5"
+- webpack: "^4.28.1"
 
 ## Commands :
 ```
